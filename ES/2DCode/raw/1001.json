@@ -3,9 +3,9 @@
     "ver" : "1.0.0",
     "nam" : {
       "fn" : "Apellido Apellido",
-      "fnt" : "BRITO<BERMEJO",
+      "fnt" : "APELLIDO<APELLIDO",
       "gn" : "Nombre",
-      "gnt" : "VICTOR MANUEL"
+      "gnt" : "NOMBRE"
     },
     "dob" : "2000-12-11",
     "v" : [ {
